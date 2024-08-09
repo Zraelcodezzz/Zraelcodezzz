@@ -1,4 +1,4 @@
-### Hi there....I am Israel Odiana 👋
+### Hi there....I am Israel Odiana an advancing backend developer gaining proficiency in NodeJs and Python.I'm open to collaboration and committed to building scalable web apps.
 
 <!--
 **Zraelcodezzz/Zraelcodezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
