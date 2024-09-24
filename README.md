@@ -22,7 +22,7 @@ Exploring serverless architecture.
 Deploying robust projects
 Build a fully automated multi-cloud infrastructure.
 📫 How to Reach Me:
-LinkedIn: Your https://www.linkedin.com/in/israelodiana/
+LinkedIn: https://www.linkedin.com/in/israelodiana/
 Email: odianadesddev@gmail.com
 
 <!--
