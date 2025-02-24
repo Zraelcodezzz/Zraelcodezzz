@@ -1,41 +1,26 @@
-👋 Hey there! I’m Israel, an Advancing DevOps Engineer
-🚀 Passionate about building scalable and resilient infrastructures, automating workflows, and improving system performance.
+👋 Hey there! I’m Israel, a Technical Product Manager
+🚀 Passionate about building customer-centric products, optimizing development workflows, and driving innovation through data and technology.
 
-🌟 About Me:
-👨‍💻 DevOps Enthusiast with a love for Cloud Computing, Automation, and CI/CD pipelines.
-🛠 Currently honing my skills in Docker, Kubernetes, AWS, and Infrastructure as Code (Terraform).
-🌍 I'm always exploring the latest technologies to optimize systems and enhance security.
-💡 I enjoy solving real-world problems by bridging the gap between development and operations.
-🛠 Tech Stack:
-Cloud Providers: AWS | Azure | GCP
-Automation: Ansible | Jenkins | GitLab CI
-Containers: Docker | Kubernetes
-Infrastructure as Code: Terraform | CloudFormation
-Monitoring & Logging: Prometheus | Grafana | ELK Stack
-Version Control: Git | GitHub | GitLab
-Scripting: Bash | Python | Go
-🌱 What I’m Learning:
-Advanced Kubernetes orchestration and service mesh with Istio.
-Deep dive into Cloud Security practices.
-Exploring serverless architecture.
-🎯 2024 Goals:
-Deploying robust projects
-Build a fully automated multi-cloud infrastructure.
-📫 How to Reach Me:
-LinkedIn: https://www.linkedin.com/in/israelodiana/
-Email: odianadesddev@gmail.com
+🌟 About Me
+👨‍💻 Technical Product Manager with a strong foundation in Cloud Computing, DevOps, and Agile methodologies.
+🎯 Experienced in product strategy, roadmap planning, and cross-functional team collaboration to deliver impactful solutions.
+🌍 Skilled in aligning business goals with technical execution to drive scalability, efficiency, and customer satisfaction.
+💡 I thrive on solving real-world challenges by bridging the gap between engineering, operations, and business teams.
 
-<!--
-**Zraelcodezzz/Zraelcodezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Product Management Skills
+Product Strategy & Roadmaps: Defining vision, setting goals, and prioritizing features.
+Agile & Scrum Methodologies: Leading sprints, backlog refinement, and stakeholder collaboration.
+Data-Driven Decision Making: Analyzing user behavior, market trends, and KPIs for insights.
+Stakeholder Management: Effectively communicating with engineers, designers, and executives.
+Go-To-Market Strategy: Planning product launches, positioning, and customer feedback loops.
+🛠 Technical Skills
+Cloud & Infrastructure: AWS | Azure | GCP
+CI/CD & Automation: Jenkins | GitLab CI
+Product & Project Management Tools: Jira | Confluence | Trello | Notion
+User Research & Analytics: Google Analytics | Mixpanel | A/B Testing
+Scripting & APIs: Python | SQL | RESTful APIs
+Version Control & Collaboration: Git | GitHub | GitLab
+🌱 What I’m Learning
+Advanced product analytics and customer behavior insights.
+AI & Machine Learning applications in product management.
+Cloud security best practices for SaaS products.
