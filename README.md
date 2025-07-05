@@ -13,14 +13,8 @@ Agile & Scrum Methodologies: Leading sprints, backlog refinement, and stakeholde
 Data-Driven Decision Making: Analyzing user behavior, market trends, and KPIs for insights.
 Stakeholder Management: Effectively communicating with engineers, designers, and executives.
 Go-To-Market Strategy: Planning product launches, positioning, and customer feedback loops.
-🛠 Technical Skills
-Cloud & Infrastructure: AWS | Azure | GCP
-CI/CD & Automation: Jenkins | GitLab CI
-Product & Project Management Tools: Jira | Confluence | Trello | Notion
-User Research & Analytics: Google Analytics | Mixpanel | A/B Testing
-Scripting & APIs: Python | SQL | RESTful APIs
-Version Control & Collaboration: Git | GitHub | GitLab
+
 🌱 What I’m Learning
 Advanced product analytics and customer behavior insights.
 AI & Machine Learning applications in product management.
-Cloud security best practices for SaaS products.
+
